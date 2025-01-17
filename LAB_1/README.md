@@ -63,5 +63,5 @@ Ensure the following libraries are installed:
 ## ⚙️ Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/image-processing-project.git
+   git clone [https://github.com/your-username/image-processing-project.git](https://github.com/Umesh-Manikanta/CVDL.git)
    cd image-processing-project
